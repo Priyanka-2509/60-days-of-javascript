@@ -1,12 +1,12 @@
-Day 12 – Nested Objects & Loops
+Day 12 – Practice Day
 
 What I practiced:
-- Working with nested objects
-- Accessing object properties inside objects
-- Looping through arrays inside objects
-- Looping through object keys using for...in
-- Iterating over an array of objects
+- String cleanup using trim and case conversion
+- Looping through arrays
+- Updating array values
+- Accessing object properties
+- Applying conditions using combined data
 
-Real-life use:
-Nested objects and loops are commonly used
-to process API data and display lists in applications.
+Purpose:
+This day focused on applying multiple JavaScript
+concepts together instead of learning new syntax.
