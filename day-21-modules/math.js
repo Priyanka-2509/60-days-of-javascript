@@ -1,5 +1,4 @@
 // math.js
-
 export function calculateTotal(prices) {
   let total = 0;
 
