@@ -1,5 +1,5 @@
 // user.js
-// User-related logic
+// User related logic
 
 export const user = {
   name: "Priyanka",
